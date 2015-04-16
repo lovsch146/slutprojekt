@@ -314,3 +314,8 @@ button{
 html {
     overflow-y: scroll; 
 }
+
+h6{
+    font-size: 30px;
+    margin: 20px;
+}
