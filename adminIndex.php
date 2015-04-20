@@ -53,7 +53,7 @@
                     <div class="text">
                         <div class="text1">
                             <img src="img/elefant.jpg" alt="liten">
-                            <form method="POST">
+                            <form method="POST" action="doIndexInlog.php">
                                 <textarea rows="40" cols="27" name="redigera1" form="p1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes</textarea>
                             <input type="submit" name="uppdateraInd1" value="Uppdatera">
                             </form> 
@@ -61,7 +61,7 @@
 
                         <div class="text2">
                             <img src="img/bil.jpg" alt="liten">
-                            <form method="POST">
+                            <form method="POST" action="doIndexInlog.php">
                                 <textarea rows="40" cols="27" name="redigera2" form="p2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes</textarea>
                             <input type="submit" name="uppdateraInd2" value="Uppdatera">
                             </form>                        
@@ -69,7 +69,7 @@
 
                         <div class="text3">
                             <img src="img/giraff.jpg" alt="liten">
-                            <form method="POST">
+                            <form method="POST" action="doIndexInlog.php">
                                 <textarea rows="40" cols="27" name="redigera3" form="p3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes</textarea>
                             <input type="submit" name="uppdateraInd3" value="Uppdatera">
                             </form>
@@ -77,7 +77,7 @@
 
                         <div class="text4">
                             <img src="img/sand.jpg" alt="liten">
-                            <form method="POST">
+                            <form method="POST" action="doIndexInlog.php">
                                 <textarea rows="40" cols="27" name="redigera4" form="p4">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes</textarea>
                                 <input type="submit" name="uppdateraInd4" value="Uppdatera">
                             </form>
